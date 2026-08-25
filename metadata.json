@@ -1,0 +1,6 @@
+{
+  "name": "Karar Ahmed Software Hub",
+  "description": "استعراض وتحميل برامج وأدوات الصيانة من مستودع kararAhmed مع الأيقونات وروابط التنزيل المباشرة وتفاصيل كل برنامج",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
